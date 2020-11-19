@@ -8,4 +8,4 @@ Clicar no link fornecido por nós, por questões de segurança este não será f
 ## Passo 2: Baixar a plataforma
 Como demonstra a imagem, carreguem onde diz "baixar agora"!
 
-[![](/github/images/baixar.png)]
+![](/github/images/baixar.png)
