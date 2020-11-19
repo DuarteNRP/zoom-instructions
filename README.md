@@ -24,11 +24,8 @@ Irá aparecer esta janela, escrevam um nome que vos identifique e fechem a janel
 ![](/github/images/nome.png)
 
 ## Passo 4: Voltar ao Início
-Fecha a janela que se abriu quando clicaste no link pela primeira vez (carrega no "x")...
-
-![](/github/images/fechar.png)
-
-... e volta a clicar no link (o que enviamos no email) outra vez!
+Fecha a janela que se abriu quando clicaste no link pela primeira vez (carrega no "x" do separador web)
+e volta a clicar no link (o que enviamos no email) outra vez!
 Despois de clicar no link, visto que o zoom já está instalado no computador, irão aparecer novas opções que não apareceram no início. Carrega em "Abrir Zoom Meetings".
 
 ![](/github/images/zoomMeetings.png)
