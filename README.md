@@ -8,4 +8,4 @@ Clicar no link fornecido por nós, por questões de segurança este não será f
 ## Passo 2: Baixar a plataforma
 Como demonstra a imagem, carreguem onde diz "baixar agora"!
 
-[![Node.js Logo](/.github/images/node.js_logo.png)](https://nodejs.org/en/)
+[![Node.js Logo](/github/images/first.png)](https://nodejs.org/en/)
