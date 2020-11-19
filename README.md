@@ -40,9 +40,13 @@ Irá abrir esta janela, aconselho a "ingressar sem vídeo"! Podem ligar a câmar
 
 ![](/github/images/video.png)
 
-Vai abrir outra janela, carreguem em "Audio conferência por Computador" e voilà!
+Irá abrir outra janela, carreguem em "Audio conferência por Computador"... e voilà!
+
+![](/github/images/ingressar.png)
 
 ![](/github/images/voila.png)
+
+... e voilà!
 
 Na parte de baixo da janela tem opções como:
 - #### Ativar o microfone
