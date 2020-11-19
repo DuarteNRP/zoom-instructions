@@ -1,9 +1,9 @@
 # **Configurar Zoom**
-Neste centenário iremos fazer vários sessões online, desde o rapanso passando pelo sarau e pelas conversas que irão surgir, acabando no batismo e parabéns. Dado isto, será extremamente necessário saber trabalhar com o zoom (ferramenta que iremos utilizar para vos manter a par de tudo o que se passa deste lado).
+Neste centenário iremos fazer várias sessões online, desde o rapanso passando pelo sarau e pelas conversas que irão surgir, acabando no batismo e parabéns. Dito isto, será extremamente necessário saber trabalhar com o zoom (ferramenta que iremos utilizar para vos manter a par de tudo o que se passa deste lado).
 De seguida, serão fornecidas informações dos passos todos que serão necessários para instalar o zoom e aceder à sala que criamos para estes três dias de festa. Quem já tinha instalado o zoom pode saltar logo para o passo 4.
 
 ## Passo 1: Link
-Cliquem no link fornecido por nós, por questões de segurança este não será fornecido aqui mas sim no email que seguiu para a teya.
+Cliquem no link fornecido por nós. Por questões de segurança este não será fornecido aqui mas sim no email que seguiu para a teya.
 
 ## Passo 2: Baixar a plataforma
 Como demonstra a imagem, carreguem onde diz "baixar agora"!
@@ -40,7 +40,7 @@ Irá abrir esta janela, aconselho a "ingressar sem vídeo"! Podem ligar a câmar
 
 ![](/github/images/video.png)
 
-Irá abrir outra janela, carreguem em "Audio conferência por Computador"... e voilà!
+Irá abrir outra janela, carreguem em "Audioconferência por Computador"... e voilà!
 
 ![](/github/images/ingressar.png)
 
@@ -54,11 +54,11 @@ Na parte de baixo da janela tem opções como:
 - #### Participantes
 - #### Etc...
 
-Estas configurações na altura nós ajudamos qualquer um que precise. O principal aqui era instalar a plataforma para podermos comunicar.
+Para já não será preciso definir estas configurações. Na altura, já estaremos em contacto virtual direto e será mais fácil ajudar com estes detalhes. O principal aqui era instalar a plataforma para podermos comunicar.
 
 ## Ajuda
 
-O link será enviado por email. A sala estará sempre aberta por isso se tiverem um tempinho testem tudo antes de chegar a altura.
+O link será enviado por e-mail. A sala estará sempre aberta por isso se tiverem um tempinho testem tudo antes de chegar a altura.
 
 Caso ocorra algum problema durantes estes passos todos, nomeadamente algumas versões de Windows ou até problemas com outros sistemas operativos, vou deixar aqui os meus contactos para poder esclarecer qualquer dúvida que surja em relação ao zoom.
 
