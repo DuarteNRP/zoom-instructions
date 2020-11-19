@@ -35,7 +35,7 @@ Despois de clicar no link, visto que o zoom já está instalado no computador, i
 
 Caso isto não apareça, carrega em "Iniciar Sessão" que de seguida irá aparecer.
 
-## Passo 4: Configurações
+## Passo 5: Configurações
 Irá abrir esta janela, aconselho a "ingressar sem vídeo"! Podem ligar a câmara depois quando já estiverem dentro da sala.
 
 ![](/github/images/video.png)
@@ -56,13 +56,16 @@ Na parte de baixo da janela tem opções como:
 
 Para já não será preciso definir estas configurações. Na altura, já estaremos em contacto virtual direto e será mais fácil ajudar com estes detalhes. O principal aqui era instalar a plataforma para podermos comunicar.
 
+## Nota
+Devido à falta de privilégios na platafoma Zoom, todas as sessões terão no máximo 40 minutos de duração. Isto não será um problema. Logo que a sessão expire, a única coisa a fazer é fechar o separador outra vez e fazer tudo de novo desde o passo 4.
+
 ## Ajuda
 
 O link será enviado por e-mail. A sala estará sempre aberta por isso se tiverem um tempinho testem tudo antes de chegar a altura.
 
 Caso ocorra algum problema durantes estes passos todos, nomeadamente algumas versões de Windows ou até problemas com outros sistemas operativos, vou deixar aqui os meus contactos para poder esclarecer qualquer dúvida que surja em relação ao zoom.
 
-- #### Telemóvel - 933830322
-- #### E-mail - duarte_pereira_5@hotmail.com
+- #### Telemóveis - 933830322 / 915882115
+- #### E-mails - duarte_pereira_5@hotmail.com / xanalobo2000@hotmail.com
 
 
