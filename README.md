@@ -1,11 +1,64 @@
 # **Configurar Zoom**
 Neste centenário iremos fazer vários sessões online, desde o rapanso passando pelo sarau e pelas conversas que irão surgir e acabando no batismo e parabéns. Dado isto, será extremamente necessário saber trabalhar com o zoom (ferramenta que iremos utilizar para vos manter a tudo o que se passa deste lado).
-De seguida, serão fornecidas informações dos passos todos que serão necessarários para instalar o zoom e aceder a sala que criamos para estes três dias de festa.
+De seguida, serão fornecidas informações dos passos todos que serão necessarários para instalar o zoom e aceder a sala que criamos para estes três dias de festa. Quem já tenha instalado o zoom pode saltar logo para o passo 4.
 
 ## Passo 1: Link
-Clicar no link fornecido por nós, por questões de segurança este não será fornecido aqui mas sim no email que seguiu para a teya.
+Cliquem no link fornecido por nós, por questões de segurança este não será fornecido aqui mas sim no email que seguiu para a teya.
 
 ## Passo 2: Baixar a plataforma
 Como demonstra a imagem, carreguem onde diz "baixar agora"!
 
 ![](/github/images/baixar.png)
+
+## Passo 3: Instalação
+Cliquem no canto inferior esquerdo...
+
+![](/github/images/carregar.png)
+
+...esperem que a instalação esteja concluída!
+
+![](/github/images/instalacao.png)
+
+Irá aparecer esta janela, escrevam um nome que vos identifique e fechem a janela.
+
+![](/github/images/nome.png)
+
+## Passo 4: Voltar ao Início
+Fecha a janela que se abriu quando clicaste no link pela primeira vez...
+
+![](/github/images/fechar.png)
+
+... e volta a clicar no link (o que enviamos no email) outra vez!
+Despois de clicar no link, visto que o zoom já está instalado no computador, irão aparecer novas opções que não apareceram no início. Carrega em "Abrir Zoom Meetings".
+
+![](/github/images/zoomMeetings.png)
+
+Caso isto não apareça, carrega em "Iniciar Sessão" que de seguida irá aparecer.
+
+## Passo 4: Configurações
+Irá abrir esta janela, aconselho a "ingressar sem vídeo"! Podem ligar a câmara depois quando já estiverem dentro da sala.
+
+![](/github/images/video.png)
+
+Vai abrir outra janela, carreguem em "Audio conferência por Computador" e voilà!
+
+![](/github/images/voila.png)
+
+Na parte de baixo da janela tem opções como:
+- #### Ativar o microfone
+- #### Iniciar Vídeo
+- #### Participantes
+- #### Etc...
+
+Estas configurações na altura nós ajudamos qualquer um que precise. O principal aqui era instalar a plataforma para podermos comunicar.
+
+## Ajuda
+
+O link será enviado por email. A sala estará sempre aberta por isso se tiverem um tempinho testem tudo antes de chegar a altura.
+
+Caso ocorra algum problema durantes estes passos todos, nomeadamente algumas versões de Windows ou até problemas com outros sistemas operativos, vou deixar aqui os meus contactos para poder esclarecer qualquer dúvida que surja em relação ao zoom.
+
+- #### Telemóvel - 933830322
+- #### E-mail - duarte_pereira_5@hotmail.com
+
+
