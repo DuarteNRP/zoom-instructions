@@ -1,6 +1,6 @@
 # **Configurar Zoom**
-Neste centenário iremos fazer vários sessões online, desde o rapanso passando pelo sarau e pelas conversas que irão surgir e acabando no batismo e parabéns. Dado isto, será extremamente necessário saber trabalhar com o zoom (ferramenta que iremos utilizar para vos manter a tudo o que se passa deste lado).
-De seguida, serão fornecidas informações dos passos todos que serão necessarários para instalar o zoom e aceder a sala que criamos para estes três dias de festa. Quem já tenha instalado o zoom pode saltar logo para o passo 4.
+Neste centenário iremos fazer vários sessões online, desde o rapanso passando pelo sarau e pelas conversas que irão surgir, acabando no batismo e parabéns. Dado isto, será extremamente necessário saber trabalhar com o zoom (ferramenta que iremos utilizar para vos manter a par de tudo o que se passa deste lado).
+De seguida, serão fornecidas informações dos passos todos que serão necessários para instalar o zoom e aceder à sala que criamos para estes três dias de festa. Quem já tinha instalado o zoom pode saltar logo para o passo 4.
 
 ## Passo 1: Link
 Cliquem no link fornecido por nós, por questões de segurança este não será fornecido aqui mas sim no email que seguiu para a teya.
@@ -24,7 +24,7 @@ Irá aparecer esta janela, escrevam um nome que vos identifique e fechem a janel
 ![](/github/images/nome.png)
 
 ## Passo 4: Voltar ao Início
-Fecha a janela que se abriu quando clicaste no link pela primeira vez...
+Fecha a janela que se abriu quando clicaste no link pela primeira vez (carrega no "x")...
 
 ![](/github/images/fechar.png)
 
